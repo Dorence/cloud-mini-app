@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/navigator/index",
+    "pages/borrowClassroom/borrowClassroom",
+    "pages/listApproval/listApproval",
+    "pages/listApproval/viewApproval",
+    "pages/noticeBoard/index",
+    "pages/progressCheck/progressCheck",
+    "pages/theForm/theForm"
+  ],
+  "window": {
+    "backgroundColor": "#f6f6f6",
+    "navigationBarBackgroundColor": "#f6f6f6",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "场地借用系统"
+  },
+  "tabBar": {
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "color": "#7a7e83",
+    "selectedColor": "#3cc51f",
+    "list": [
+      {
+        "pagePath": "pages/navigator/index",
+        "iconPath": "assets/hall.png",
+        "selectedIconPath": "assets/hall-HL.png",
+        "text": "办事大厅"
+      },
+      {
+        "pagePath": "pages/noticeBoard/index",
+        "iconPath": "assets/notification.png",
+        "selectedIconPath": "assets/notification-HL.png",
+        "text": "公告版"
+      }
+    ]
+  }
+}

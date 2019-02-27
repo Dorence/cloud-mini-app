@@ -1,0 +1,17 @@
+/* miniprogram/pages/listApproval/viewApproval.wxss */
+@import "../../assets/weui.wxss";
+
+.page {
+  padding-bottom: 600rpx;
+}
+
+.weui-textarea {
+  height: 4em;
+}
+
+.weui-cell__hd image {
+  margin: 0 5px;
+  vertical-align: middle;
+  width: 17px;
+  height: 17px;
+}
