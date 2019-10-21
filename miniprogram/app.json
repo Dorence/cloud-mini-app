@@ -25,7 +25,8 @@
         "borderStyle": "black",
         "color": "#7a7e83",
         "selectedColor": "#3cc51f",
-        "list": [{
+        "list": [
+            {
                 "pagePath": "pages/facilities/index",
                 "iconPath": "assets/hall.png",
                 "selectedIconPath": "assets/hall-HL.png",
@@ -38,5 +39,6 @@
                 "text": "物资借用"
             }
         ]
-    }
+    },
+    "sitemapLocation": "sitemap.json"
 }
